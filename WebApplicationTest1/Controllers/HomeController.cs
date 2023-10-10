@@ -7,6 +7,7 @@ namespace WebApplicationTest1.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        //fakka vincent
 
         public HomeController(ILogger<HomeController> logger)
         {
