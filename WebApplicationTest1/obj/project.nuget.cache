@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Ev9OfGL2gJWVgUCh5DtMlKrYzfYcWiczj+5Z9VteEl+BLo9coml2DVKHXVHpLIU+83mQkYwd7JsJPnH4sncTQ==",
+  "dgSpecHash": "UiTIIeeLEFkTM6oXAOpf4dLP1FfbzrrIdATXQZRHlqt8Fubj5LAUC081OyBFX+T4vidKxJWBXr8iZdiWPAMnNA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\VincentBok\\source\\git repos\\myawesomerunnertestproject\\WebApplicationTest1\\WebApplicationTest1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\VincentBok\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\anton\\Documents\\github2\\TaskManagerInAngular\\WebApplicationTest1\\WebApplicationTest1.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

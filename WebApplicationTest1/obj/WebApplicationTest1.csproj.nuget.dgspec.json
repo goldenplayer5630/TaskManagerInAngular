@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\VincentBok\\source\\git repos\\myawesomerunnertestproject\\WebApplicationTest1\\WebApplicationTest1.csproj": {}
+    "C:\\Users\\anton\\Documents\\github2\\TaskManagerInAngular\\WebApplicationTest1\\WebApplicationTest1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\VincentBok\\source\\git repos\\myawesomerunnertestproject\\WebApplicationTest1\\WebApplicationTest1.csproj": {
+    "C:\\Users\\anton\\Documents\\github2\\TaskManagerInAngular\\WebApplicationTest1\\WebApplicationTest1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\VincentBok\\source\\git repos\\myawesomerunnertestproject\\WebApplicationTest1\\WebApplicationTest1.csproj",
+        "projectUniqueName": "C:\\Users\\anton\\Documents\\github2\\TaskManagerInAngular\\WebApplicationTest1\\WebApplicationTest1.csproj",
         "projectName": "WebApplicationTest1",
-        "projectPath": "c:\\Users\\VincentBok\\source\\git repos\\myawesomerunnertestproject\\WebApplicationTest1\\WebApplicationTest1.csproj",
-        "packagesPath": "C:\\Users\\VincentBok\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\VincentBok\\source\\git repos\\myawesomerunnertestproject\\WebApplicationTest1\\obj\\",
+        "projectPath": "C:\\Users\\anton\\Documents\\github2\\TaskManagerInAngular\\WebApplicationTest1\\WebApplicationTest1.csproj",
+        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anton\\Documents\\github2\\TaskManagerInAngular\\WebApplicationTest1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VincentBok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,32 +39,17 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.19.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.122\\RuntimeIdentifierGraph.json"
         }
       }
     }
